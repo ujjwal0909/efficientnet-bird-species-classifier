@@ -44,5 +44,5 @@ These results demonstrate the model's effectiveness in classifying bird species 
 This project was a collaborative effort:
 
 Myself : Implemented EfficientNetB0 model and training pipeline
-Teammate 2: 
-https://github.com/rushikesh2842: Explored alternative architectures and data preprocessing
+https://github.com/devdalal2002: Trained the MobileNetV2 and one of the earlier EfficientNetB0 models
+https://github.com/rushikesh2842: Trained the ResNet models, developed the Gradio UI
